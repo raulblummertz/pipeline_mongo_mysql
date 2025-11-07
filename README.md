@@ -133,15 +133,6 @@ notebooks/save_data_mysql.ipynb
 
 ---
 
-## 🚀 Possíveis Extensões Futuras
-
-- Automação do fluxo completo com **Airflow** ou **Prefect**
-- Containerização com **Docker**
-- Logging e monitoramento com **Rich** ou **loguru**
-- Adição de camada intermediária com **MongoDB**
-
----
-
 ## 👤 Autor
 
 **Raul Lummertz**  
