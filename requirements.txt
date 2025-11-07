@@ -1,0 +1,6 @@
+## 📦 **requirements.txt**
+requests==2.31.0
+pymongo==4.4.0
+mysql-connector-python==8.0.33
+pandas==2.3.3
+dotenv==0.9.9
